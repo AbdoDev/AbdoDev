@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm abdo</h1>
-<h3 align="center">New Developer in JavaScript **Since Nov 2021</h3>
+<h3 align="center">New Developer in JavaScript **Since Nov 2021**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdodev&label=Profile%20views&color=0e75b6&style=flat" alt="abdodev" /> </p>
 
