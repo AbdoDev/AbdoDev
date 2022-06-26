@@ -2,11 +2,11 @@
 <h3 align="center">New Developer in JavaScript </h3>
 <h2 align="center">Since Nov 2021</h2>
 
-![DISCORD](https://discord.c99.nl/widget/theme-1/767713461537996810.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdodev&label=Profile%20views&color=0e75b6&style=flat" alt="abdodev" /> </p>
 
 - 🔭 I’m currently working on **FlameBot (discord bot)**
-- 📩 Contect with me in discord **Abdo.#1001**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
