@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  <img src="[https://lanyard.cnrad.dev/api/849413565487382578](https://lanyard.cnrad.dev/api/279078494506450944)">
+  <img src="https://lanyard.cnrad.dev/api/849413565487382578">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdodev&label=Profile%20views&color=0e75b6&style=flat" alt="abdodev" /> </p>
