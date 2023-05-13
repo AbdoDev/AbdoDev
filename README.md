@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdo</h1>
 <h3 align="center">a Javascript and PHP Developer</h3>
 
+<p align="center">
+  <br>
+  <img src="[https://lanyard.cnrad.dev/api/849413565487382578](https://lanyard.cnrad.dev/api/279078494506450944)">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdodev&label=Profile%20views&color=0e75b6&style=flat" alt="abdodev" /> </p>
 
 - 🔭 I’m currently working on [Abdo.digital](https://abdo.digital)
