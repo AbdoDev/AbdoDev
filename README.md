@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abdo</h1>
-<h3 align="center">a Javascript and PHP Developer</h3>
 
 <p align="center">
   <br>
